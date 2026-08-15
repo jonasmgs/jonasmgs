@@ -104,16 +104,15 @@ Uma plataforma experimental que combina **desenvolvimento de software + agentes 
 
 ## 📂 ECOSSISTEMA DE PROJETOS
 
-Projetos que fazem parte do meu laboratório de desenvolvimento:
+Projetos públicos atuais que fazem parte do meu laboratório de desenvolvimento:
 
 - 🛰️ **[NINEDROID](https://github.com/jonasmgs/NINEDROID)** — desenvolvimento Android com agentes de IA
-- 📱 **[LISTWEI](https://github.com/jonasmgs/LISTWEI)** — aplicação Android
-- 🧰 **[droid](https://github.com/jonasmgs/droid)** — ferramentas para desenvolvimento
-- 🔐 **[senha](https://github.com/jonasmgs/senha)** — aplicação Android
 - 🍽️ **[gastronom-iaa](https://github.com/jonasmgs/gastronom-iaa)** — aplicação web
 - 🏠 **[zelador](https://github.com/jonasmgs/zelador)** — aplicação / ferramenta web
 
-[🟢 **VER TODOS OS PROJETOS →**](https://github.com/jonasmgs?tab=repositories)
+> 🔒 Projetos privados não são listados aqui.
+
+[🟢 **VER TODOS OS REPOSITÓRIOS PÚBLICOS →**](https://github.com/jonasmgs?tab=repositories&q=&type=public)
 
 ---
 
