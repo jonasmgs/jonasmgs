@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./profile-banner.jpg" alt="Jonas Moralles — Developer & Builder" width="700">
-
 # ⚡ JONAS MORALLES
 
 ### `INTELLIGENT SOLUTIONS • AI • SOFTWARE • AUTOMATION`
